@@ -78,7 +78,7 @@ section#img1{
     
 }
 section#img2{
-    background-image: url ('../imagem/background002.jpg');
+    background-image: url('../imagem/background002.jpg');
     background-position:right center ;
     background-size:cover;
 }
