@@ -64,6 +64,9 @@ section.imagem>p{
     box-shadow: 1px 1px 10px  black;
     text-shadow: 1px 1px 2px black;
 }
+.t1,.t2{
+    visibility: hidden;
+}
 section.normal{
     background-color: white;
 
